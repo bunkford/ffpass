@@ -8,6 +8,8 @@ https://bunkford.github.io/ffpass/docs/ffpass.html
 
 `nimble install https://github.com/bunkford/ffpass/`
 
+# Example
+
 ```nim
 import ffpass
   
