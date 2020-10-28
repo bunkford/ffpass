@@ -6,7 +6,7 @@ https://bunkford.github.io/ffpass/docs/ffpass.html
 
 # Installation
 
-`nimble install https://github.com/bunkford/ffpass/ffpass.nimble`
+`nimble install https://github.com/bunkford/ffpass/`
 
 ```nim
 import ffpass
