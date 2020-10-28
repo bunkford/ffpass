@@ -2,7 +2,7 @@
 Api Calls for Ford vehicles equipped with the fordpass app.
 
 # Documentation
-https://bunkford.github.io/ffpass/htmldocs/ffpass.html
+https://bunkford.github.io/ffpass/docs/ffpass.html
 
 # Installation
 
