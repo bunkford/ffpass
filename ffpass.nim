@@ -28,9 +28,10 @@ type
 
 let baseUrl = "https://usapi.cv.ford.com/api"
 
-var token:AccessToken
+proc newAccessToken(): AccessToken =
+  result = AccessToken(token: "", expires: now())
 
-
+var token = newAccessToken()
 
 proc auth(self:Vehicle) =
   # Authenticate and store the token
